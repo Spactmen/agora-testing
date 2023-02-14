@@ -23,7 +23,7 @@ export const VideoRoom = () => {
     }
 
     if (mediaType === 'audio') {
-      // user.audioTrack.play()
+      user.audioTrack.play()
     }
   };
 
